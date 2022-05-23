@@ -101,10 +101,11 @@ GitHub is one of many services that provide at the same time:
 GitHub has many competitors, two of the main ones being GitLab and BitBucket (which provide very similar services). We chose to make you use GitHub because that’s where most of the industry is (that way, you’ll be able to interact with them on their open-source projects), and it’s also where tech recruiters typically go check out to see what you’ve been up to.
 
 # Some interesting links about Git
-https://try.github.io: an interactive tutorial for beginners.\
-https://help.github.com/articles/good-resources-for-learning-git-and-github/: a list of resources about Git, curated by GitHub.\
-http://nvie.com/posts/a-successful-git-branching-model/: once you master the technical tool, you have many ways to organize your branches according to your project. This very notorious article from 2010 introduces **git-flow** , a detailed proposal for organizing collective work with Git that is still the most common today. You should talk about that each time you start a collaborative project using Git.\
-http://semver.org: now that you can give version numbers to your code iterations, how should you number them? Semantic versioning is the most used versioning scheme.\
-Git from the inside out\
-Learn git branching\
+* https://try.github.io: an interactive tutorial for beginners.\
+* https://help.github.com/articles/good-resources-for-learning-git-and-github/: a list of resources about Git, curated by GitHub.\
+* http://nvie.com/posts/a-successful-git-branching-model/: once you master the technical tool, you have many ways to organize your branches according to your project. This very notorious article from 2010 introduces **git-flow** , a detailed proposal for organizing collective work with Git that is still the most common today. You should talk about that each time you start a collaborative project using Git.\
+* http://semver.org: now that you can give version numbers to your code iterations, how should you number them? Semantic versioning is the most used versioning scheme.\
+* Git from the inside out\
+* Learn git branching\
+
 **All of your school projects must make proper use of Git, and must be pushed to your GitHub account.**
