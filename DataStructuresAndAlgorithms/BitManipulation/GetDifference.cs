@@ -8,11 +8,11 @@ class Program
 
     public static void Main(string[] args)
     {
-        Console.WriteLine(GetDiff(arr1, arr2));
+        Console.WriteLine(GetDifference(arr1, arr2));
 
     }
 
-    public static int GetDiff(int[] arr1, int[] arr2)
+    public static int GetDifference(int[] arr1, int[] arr2)
     {
         var result = 0;
 
