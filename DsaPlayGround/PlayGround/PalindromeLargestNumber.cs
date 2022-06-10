@@ -63,9 +63,12 @@ namespace DsaPlayGround.PlayGround
             }
 
             var maxOddDig = (char)(oddDig.Max() + 48);
-            var result = left + maxOddDig + right;
+            var palindrome = left + maxOddDig + right;
 
-            return Convert.ToInt32(result);
+            var palindromeNumber = Convert.ToInt32(palindrome);
+            var result = palindromeNumber.ToString();
+
+            return (result.Length < palindrome.Length)? oddDig.Max(): palindromeNumber;
         }
     }
 }
