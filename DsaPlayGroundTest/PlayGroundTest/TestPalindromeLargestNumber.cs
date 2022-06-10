@@ -47,5 +47,19 @@ namespace DsaPlayGroundTest.PlayGroundTest
             Assert.Equal(expectedOutput, actualOutput);
         }
 
+        [Fact]
+        public void LeadingZeroOutput()
+        {
+            // Arrange
+            var input = "01009";
+            var expectedOutput = 9;
+
+            // Act
+            var actualOutput = PalindromeLargestNumber.LargestPalindrome(input);
+
+            // Assert
+            Assert.Equal(expectedOutput, actualOutput);
+        }
+
     }
 }
