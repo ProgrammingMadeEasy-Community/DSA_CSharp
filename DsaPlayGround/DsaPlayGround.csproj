@@ -6,11 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Array\" />
+    <Compile Remove="StackAndQueue\**" />
+    <EmbeddedResource Remove="StackAndQueue\**" />
+    <None Remove="StackAndQueue\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="HashTable\" />
     <Folder Include="LinkedList\" />
     <Folder Include="AllImages\" />
-    <Folder Include="StackAndQueue\" />
   </ItemGroup>
 
 </Project>
