@@ -3,7 +3,7 @@ using Xunit;
 
 namespace DsaPlayGroundTest.PlayGroundTest
 {
-    public class Test_PalindromeLargestNumber
+    public class TestPalindromeLargestNumber
     {
         [Fact]
         public void NullOrEmptyInput()
