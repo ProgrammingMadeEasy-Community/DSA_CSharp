@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Array\" />
     <Folder Include="HashTable\" />
     <Folder Include="LinkedList\" />
     <Folder Include="AllImages\" />
