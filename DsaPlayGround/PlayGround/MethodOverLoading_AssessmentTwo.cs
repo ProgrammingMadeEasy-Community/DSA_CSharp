@@ -1,33 +1,38 @@
 ﻿using System;
 
 
-public enum Days {None, Moday, Tuesday, Wednessday, Thursday, Friday, Saturday, Sunday }
+namespace PlayGround.PlayGround
 
-public class Class1
 {
-    public static string DaysOfTheWeek (int dayOne, int dayTwo, int dayThree)
+    public enum Days { None, Moday, Tuesday, Wednessday, Thursday, Friday, Saturday, Sunday }
+
+    public class Class1
     {
+        public static string DaysOfTheWeek(int dayOne, int dayTwo, int dayThree)
+        {
 
 
 
 
 
 
-        return DaysOfTheWeek ((Days)dayTwo);
+
+            return DaysOfTheWeek((Days)dayTwo);
+        }
+
+        public static string DaysOfTheWeek(int day)
+        {
+
+
+
+
+
+
+        }
+
+
+
     }
-
-	public static string DaysOfTheWeek (int day)
-    {
-
-
-
-
-
-
-    }
-
-
-	
 }
 public class Program
 {
