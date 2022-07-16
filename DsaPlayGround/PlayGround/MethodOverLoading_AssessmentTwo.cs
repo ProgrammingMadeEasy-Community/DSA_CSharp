@@ -8,7 +8,7 @@ namespace PlayGround.PlayGround
 
     public class Class1
     {
-        public static string DaysOfTheWeek(int dayOne, int dayTwo, int dayThree)
+        public static void DaysOfTheWeek(int dayOne, int dayTwo, int dayThree)
         {
 
 
@@ -17,10 +17,9 @@ namespace PlayGround.PlayGround
 
 
 
-            return DaysOfTheWeek((Days)dayTwo);
         }
 
-        public static string DaysOfTheWeek(int day)
+        public static void DaysOfTheWeek(int day)
         {
 
 
