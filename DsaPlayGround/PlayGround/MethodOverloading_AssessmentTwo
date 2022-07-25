@@ -14,7 +14,7 @@ namespace ageLoop
             Console.WriteLine("Enter your age");
 
             int trial = 10;
-            int age = 0;
+            int age;
             bool isAgeInt = false;
 
             while (trial > 0 && !isAgeInt)
