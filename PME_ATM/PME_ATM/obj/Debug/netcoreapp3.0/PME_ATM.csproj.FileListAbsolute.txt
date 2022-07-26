@@ -1,0 +1,11 @@
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\bin\Debug\netcoreapp3.0\PME_ATM.exe
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\bin\Debug\netcoreapp3.0\PME_ATM.deps.json
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\bin\Debug\netcoreapp3.0\PME_ATM.runtimeconfig.json
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\bin\Debug\netcoreapp3.0\PME_ATM.runtimeconfig.dev.json
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\bin\Debug\netcoreapp3.0\PME_ATM.dll
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\bin\Debug\netcoreapp3.0\PME_ATM.pdb
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\obj\Debug\netcoreapp3.0\PME_ATM.csprojAssemblyReference.cache
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\obj\Debug\netcoreapp3.0\PME_ATM.AssemblyInfoInputs.cache
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\obj\Debug\netcoreapp3.0\PME_ATM.AssemblyInfo.cs
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\obj\Debug\netcoreapp3.0\PME_ATM.dll
+C:\Users\EFFIONG UBOKOBONG\Source\Repos\PME_ATM\PME_ATM\obj\Debug\netcoreapp3.0\PME_ATM.pdb
