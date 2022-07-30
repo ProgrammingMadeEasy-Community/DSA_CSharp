@@ -6,8 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="PlayGround\MethodOverloading_AssessmentTwo\obj\**" />
     <Compile Remove="StackAndQueue\**" />
+    <EmbeddedResource Remove="PlayGround\MethodOverloading_AssessmentTwo\obj\**" />
     <EmbeddedResource Remove="StackAndQueue\**" />
+    <None Remove="PlayGround\MethodOverloading_AssessmentTwo\obj\**" />
     <None Remove="StackAndQueue\**" />
   </ItemGroup>
 
