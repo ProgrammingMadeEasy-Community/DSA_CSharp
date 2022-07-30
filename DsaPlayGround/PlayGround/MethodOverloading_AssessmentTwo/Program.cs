@@ -6,7 +6,7 @@ namespace MethodOverloading_AssessmentTwo
 {
     class Program
     {
-        static void Main()
+        static void MainEmmanuelAdebayo()
         {
             try
             {
