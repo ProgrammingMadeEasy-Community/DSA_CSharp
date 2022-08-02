@@ -57,7 +57,6 @@ namespace DayOfTheWeek
                 Console.WriteLine(inputDay);
             else
                 throw new ArgumentException("Invalid input");
-                  
         }
     }
 }
