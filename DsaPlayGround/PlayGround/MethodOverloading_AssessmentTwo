@@ -1,0 +1,48 @@
+using System;
+
+namespace ageLoop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            userAgeRecord();
+
+        }
+        public static void userAgeRecord()
+        {
+            Console.WriteLine("Enter your age");
+
+            int trial = 10;
+            int age;
+            bool isAgeInt = false;
+
+            while (trial > 0 && !isAgeInt)
+            {
+                Console.WriteLine($"please input a correct age formate, you have {trial} number of trial left");
+
+                isAgeInt = int.TryParse(Console.ReadLine(), out age);
+                trial--;
+            }
+
+
+            if (age < 10)
+                Console.WriteLine("You are too young");
+            else if (age >= 11 && age <= 15)
+                Console.WriteLine("You are mid-aged individual");
+            else if (age > 20 && age < 30)
+                Console.WriteLine("You are faily young");
+            else
+                Console.WriteLine("We couldn't find a good match for you");
+
+
+
+            Console.ReadKey();
+
+            
+
+        }
+
+
+    }
+}
